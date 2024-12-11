@@ -1,0 +1,13 @@
+Key Points on Test Scenario, Test Case, Test Strategy and Plan, Test Summary Report
+	
+Test Scenario:
+      Test Scenario should have real world user interactions and system behaviors. It should be easy to understand. It should include step by step instructions for each actions. It ensure that all the functionalities of the system are tested. It provides a clear understanding of the application and business requirements. It should avoid all the confusions. 
+
+Test Case:
+     Test case is a set of criteria that outlines the processes, data, and other requirements to verify a software application’s functionality. It should be unique, easy to read and follow a logical. They should also be prioritized according to requirements, and cover both positive and negative scenarios. A good test case can help find and fix the bugs earlier. Test case should be written to be modular and easily maintainable so they can be reused for as long as possible.
+
+Test Strategy and Plan:
+     Clearly define the goals and timeline of the testing effort. This helps the testing team stay focused and deliver high quality software. Outline the hardware and software setup for the testing process. Test environments should be real devices, like browsers or OS, to monitor software behavior under user conditions. Create a schedule for the testing activities based on the development schedule and availability of personnel. Identify potential risks and outline strategies to address them. To set suspension and exit criteria to define when the tests should be suspended. Allocate roles and responsibilities within the testing team. Finalize and test the test plan document or tool. Some deliverables are produced during and after the test itself.
+
+Test Summary Report:
+     Clearly state the purpose of the testing. Provide a high level overview of the product areas that were tested. Document any product areas that were not tested and set expectations for them. Include the steps taken and testing approaches used. It includes details of every platform and environment on which the product was tested. It includes a defect report, even though it usually captured in bug reports. Provide feedback on the application’s overall status and inform the client about critical issues. It includes such as pass\fail rates, defect density, test coverage % and execution time.
